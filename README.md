@@ -8,6 +8,10 @@ It creates a random Band Name.
 
 #### Run the server
 
+```
+npm run dev
+```
+
 open your browser and go to
 
 http://localhost:3000
