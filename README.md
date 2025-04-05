@@ -8,6 +8,7 @@ It creates a random Band Name.
 
 #### Run the server
 
+open your browser and go to
 ```
-[https](http://localhost:3000/)
+[http://localhost:3000](http://localhost:3000/)
 ```
