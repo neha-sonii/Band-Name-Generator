@@ -9,6 +9,6 @@ It creates a random Band Name.
 #### Run the server
 
 open your browser and go to
-```
+
 http://localhost:3000
-```
+
