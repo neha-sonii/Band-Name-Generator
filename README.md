@@ -9,4 +9,5 @@ It creates a random Band Name.
 #### Run the server
 
 ```
-https
+[https](http://localhost:3000/)
+```
