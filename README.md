@@ -9,7 +9,7 @@ It creates a random Band Name.
 #### Run the server
 
 ```
-npm run dev
+nodemon index.js
 ```
 
 open your browser and go to
